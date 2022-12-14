@@ -1,4 +1,4 @@
-# hiya, i'm connie  ☕️
+# hiya, i'm connie
 
 - pronouns: she/her
 - electrical engineering student
