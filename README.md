@@ -1,7 +1,7 @@
 # hiya, i'm connie
 
 
-<img align="right" width="310" style="margin-left: 25px" src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+<img align="right" width="320" style="margin-left: 25px" src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
 ```diff
 < junior software engineer @ boto.io
