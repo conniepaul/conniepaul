@@ -1,7 +1,7 @@
 # hiya, i'm connie
 
 
-<img align="right" width="370" style="margin-left: 25px" src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+<img align="right" width="310" style="margin-left: 25px" src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
 ```diff
 < junior software engineer @ boto.io
@@ -15,6 +15,8 @@
 ! enthusiastic about getting my passport stamped
 
 ```
+#
+
 <div align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
@@ -43,8 +45,8 @@
 
 <hr>
 <div align="center">
-<img width="500" src="https://github-readme-stats.vercel.app/api?username=conniepaula&show_icons=true&title_color=fed8d3&icon_color=761d1d&text_color=fff&bg_color=2d333a&count_private=true&hide_border=true">
-<img height="199" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conniepaula&show_icons=true&title_color=fed8d3&icon_color=761d1d&text_color=fff&bg_color=2d333a&count_private=true&layout=compact&hide_border=true"></div>
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=conniepaula&show_icons=true&title_color=fed8d3&icon_color=761d1d&text_color=fff&bg_color=2d333a&count_private=true&hide_border=true">
+<img width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conniepaula&show_icons=true&title_color=fed8d3&icon_color=761d1d&text_color=fff&bg_color=2d333a&count_private=true&layout=compact&hide_border=true"></div>
 
 
 
