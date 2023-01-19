@@ -10,7 +10,7 @@
 
 ! currently studying threejs and react three fiber
 ! ‍passionate about empowering women in tech
-! probably listening to sappy music on spotify
+! probably playing or listening to sappy music
 ! addicted to italian and japanese food
 ! enthusiastic about getting my passport stamped
 
