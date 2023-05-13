@@ -5,14 +5,11 @@
 
 ```diff
 < junior software engineer @ boto.io
-< volunteering @ steam groups/fe team
 < electrical engineering grad
 
 ! currently studying threejs and react three fiber
 ! ‍passionate about empowering women in tech
-! probably playing or listening to sappy music
-! addicted to italian and japanese food
-! enthusiastic about getting my passport stamped
+! into music, food and travelling
 
 ```
 #
