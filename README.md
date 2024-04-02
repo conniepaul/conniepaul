@@ -4,12 +4,11 @@
 <img align="right" width="320" style="margin-left: 25px" src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
 ```diff
-< junior software engineer @ boto.io
-< electrical engineering grad
+< software engineer with a background in electrical engineering
 
 ! currently studying threejs and react three fiber
-! ‍passionate about empowering women in tech
-! into music, food and travelling
+! ‍passionate about diversity in tech
+! into making music, trying different cuisines and experiencing new cultures
 
 ```
 #
@@ -19,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" width="42" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="42" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss.svg" height="30" width="42" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" height="30" width="42" alt="materialui logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" width="42" alt="storybook logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" width="42" alt="html5 logo"  />
@@ -42,7 +41,6 @@
 
 <hr>
 <div align="center">
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=conniepaula&show_icons=true&title_color=fed8d3&icon_color=761d1d&text_color=fff&bg_color=2d333a&count_private=true&hide_border=true">
 <img width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conniepaula&show_icons=true&title_color=fed8d3&icon_color=761d1d&text_color=fff&bg_color=2d333a&count_private=true&layout=compact&hide_border=true"></div>
 
 
